@@ -10,10 +10,6 @@ img {
 	display: inline-block
 ;}
 
-p {
-	color: white;
-}
-
 .row {
 	display: inline;
 }
@@ -85,49 +81,8 @@ header p{
 	margin: 45px;
 }
 
-.jumbotron {
-	background: url(/img/space.jpg);
-	background-size: cover;
-	margin-bottom: 0;
-}
-
 .central {
 	left: 180px;
-}
-
-.a {
- 	width: 0; 
-	height: 0; 
-	border-bottom: 200px solid rgb(155, 83, 156); 
-	border-left: 170px solid transparent; 
-	top: 0;
-	left: 20px;
-}
-
-.b { 
-	width: 0; 
-	height: 0; 
-	border-bottom: 200px solid rgb(155, 83, 156); 
-	border-right: 170px solid transparent; 
-	float: right;
-	right: 165px;
-}
-
-.c {
-	width: 0; 
-	height: 0; 
-	border-top: 200px solid rgb(155, 83, 156); 
-	border-left: 170px solid transparent;
-	left: 20px;
-}
-
-.d {
-	width: 0; 
-	height: 0; 
-	border-top: 200px solid rgb(155, 83, 156); 
-	border-right: 170px solid transparent;
-	float: right;
-	right: 165px;
 }
 
 .footer {
